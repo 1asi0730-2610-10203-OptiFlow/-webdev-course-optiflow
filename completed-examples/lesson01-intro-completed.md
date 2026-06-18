@@ -7,7 +7,7 @@
 <h1>Mi página web personal</h1>
 
 <!-- Task 2: Escribe algo sobre ti en el párrafo -->
-<p>Hola, me llamo Luci y estoy aprendiendo desarrollo web.</p>
+<p>Hola a todos, estoy aprendiendo desarrollo web.</p>
 ```
 
 ```css
