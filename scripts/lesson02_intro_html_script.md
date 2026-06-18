@@ -1,4 +1,4 @@
-# Lección 2: Estructura HTML básica 
+# GUÍA DE VIDEO LECCIÓN 2: Estructura HTML básica 
  
 ---
  
