@@ -1,21 +1,15 @@
-# HTML intro
+# ¿Qué es el desarrollo web?
 
-
-## Ejemplo 1: Completa la los campos faltantes (todo lo que escribas lo puedes elegir tú)
+## Práctica 1: Tu primera página web (escribe lo que quieras)
 
 ```html
-//Task 1: Completa el <h1> con algun titulo!
+<!-- Task 1: Escribe un título para tu página -->
 <h1>  </h1>
 
+<!-- Task 2: Escribe algo sobre ti en el párrafo -->
+<p>  </p>
+```
 
-//Task 2: decide un nombre para una clase y un id, y escribe texto dentro del parrafo <p>
-<p id="" class=""> 
-
-</p>
-
-
-//Task 3: decide un nombre para una clase y un id del div, y escribe texto dentro del parrafo <h1> y texto suelto dentro del div
-<div class="" id="">
-  <h1>  </h1>
-</div>
+```css
+/* Aquí escribirás tu CSS en la próxima lección */
 ```
