@@ -1,8 +1,7 @@
 # Fundamentos de Desarrollo Web
 
 Repositorio oficial del curso introductorio de desarrollo web 
-con HTML y CSS para estudiantes de secundaria, elaborado por 
-el equipo [nombre] de la Universidad Peruana de Ciencias Aplicadas.
+con HTML y CSS.
 
 ## Descripción
 
