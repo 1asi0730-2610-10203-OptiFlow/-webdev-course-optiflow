@@ -32,7 +32,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 ### Lección 3: Añadir más elementos HTML (8 minutos) 
 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección](https://youtu.be/l_RUaTXlTKs)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
 - **Práctica**: [Abrir Codepen](https://codepen.io/pen/?template=your-starter) 
 
