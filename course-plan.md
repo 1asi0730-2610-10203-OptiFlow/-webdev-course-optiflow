@@ -29,7 +29,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 
 
 **¡No necesitas registrarte!** 
-### Lección 3: Añadir más elementos HTML (8 minutos) 
+### Lección 3: Añadir más elementos HTML (5 minutos) 
 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://youtu.be/l_RUaTXlTKs)
