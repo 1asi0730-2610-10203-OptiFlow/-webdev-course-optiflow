@@ -17,7 +17,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos. 
 - **Enlace**: [Ver la lección](https://youtu.be/V5gFyq36HPk)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter) 
+- **Empieza a programar**: [Abrir Codepen](https://codepen.io/pen/?template=your-starter) 
 
 
 ### Lección 2: Introducción a HTML (7:37 minutos) 
@@ -25,7 +25,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/8W9V8vsOFM0)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 
+- **Empieza a programar**: [Abrir Codepen](https://codepen.io/pen/?template=your-starter) 
 
 
 **¡No necesitas registrarte!** 
@@ -34,7 +34,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 
+- **Práctica**: [Abrir Codepen](https://codepen.io/pen/?template=your-starter) 
 
 
 **¡Comienza al instante!** 
@@ -43,7 +43,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/cVPjPqyTucs)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter) 
+- **Empieza a programar**: [Abrir Codepen](https://codepen.io/pen/?template=your-starter) 
 
 
 ### Lección 5: Estilo Simple (5:53 minutos) 
