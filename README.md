@@ -86,9 +86,14 @@ y compartir el enlace con quien quieras.
 ### Pasos para crear tu cuenta gratuita
 
 1. Abre [CodePen](https://codepen.io) en tu navegador
-3. Haz clic en **Sign Up** en la esquina superior derecha
-4. Selecciona **Sign Up with Google** e ingresa 
-   con tu cuenta de Google
+
+2. Haz clic en **Sign Up** en la esquina superior derecha
+
+<img src="assets/indicacion1.png" alt="descripción de la imagen">
+
+3. Selecciona **Sign Up with Google** e ingresa con tu cuenta de Google
+
+<img src="assets/indicacion2.png" alt="descripción de la imagen">
 5. ¡Listo! Ya puedes guardar y compartir tus proyectos
 
 > ℹ️ La cuenta gratuita es suficiente para todo 
