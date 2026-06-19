@@ -51,7 +51,8 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 - **Descripción**: Centra contenido, añade colores y bordes.
 - **Enlace**: [Ver la lección](https://youtu.be/lkuTm5NCtEg)
 - **Consejos clave**: Utiliza `justify-content: `.
-- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/?template=your-starter) 
+- **Empieza a programar**: [Abrir Codepen](https://codepen.io/pen/?template=your-starter) 
+
 
 
 ### Lección 6: ¡Crea tu primera página web! (9:16 minutos) 
