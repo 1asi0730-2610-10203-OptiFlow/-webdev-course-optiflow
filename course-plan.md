@@ -40,20 +40,20 @@ teamname)
 
 
 **¡Comienza al instante!** 
-### Lección 4: Introducción a CSS (6:19 minutos) 
+### Lección 4: Introducción a CSS (6 minutos) 
 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/cVPjPqyTucs)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 
+- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/pen/?template=your-starter) 
 
 
-### Lección 5: Crear una página web sencilla (15 minutos) 
+### Lección 5: Estilo Simple (5:53 minutos) 
 
-- **Descripción**: Combinar HTML y CSS para crear una página de perfil personal.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
-- **Consejos clave**: Aplicar estilos y depurar errores.
-- **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 
+- **Descripción**: Centra contenido, añade colores y bordes.
+- **Enlace**: [Ver la lección](https://youtu.be/lkuTm5NCtEg)
+- **Consejos clave**: Utiliza `justify-content: `.
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/?template=your-starter) 
 
 
 **¡No es necesario registrarse!** 
