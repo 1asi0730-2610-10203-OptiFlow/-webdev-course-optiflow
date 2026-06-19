@@ -63,7 +63,7 @@ teamname)
 |----------|----------|-------------| 
 | 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) | 
 | 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) | 
-| 3 | Añadir imágenes | [JSFiddle](https://jsfiddle.net/your-lesson3) | 
+| 3 | Añadir imágenes | [JSFiddle](https://codepen.op/your-lesson3) | 
 | 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) | 
-| 5 | Página de perfil | [Replit](https://replit.com/@your-lesson5) | - Cuestionario: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz) - Compartir: #WebDevBeginners 
+| 5 | Página de perfil | [Replit](https://codepen.io/your-lesson5) | 
 **¡Gracias por completar el curso!** 
