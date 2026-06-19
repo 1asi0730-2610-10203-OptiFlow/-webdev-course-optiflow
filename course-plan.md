@@ -8,9 +8,7 @@ requiere descargas!** Solo abre tu navegador web.
 **
 
 📂
-Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlow/-webdev-course
-teamname]([https://github.com/yourusername/webdev-course-teamname](https://github.com/1asi0730-2610-10203-OptiFlow/-webdev-course
-teamname) 
+Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlow/-webdev-course-optiflow](https://github.com/1asi0730-2610-10203-OptiFlow/-webdev-course-optiflow) 
 
 ## Secuencia de la lección 
 
