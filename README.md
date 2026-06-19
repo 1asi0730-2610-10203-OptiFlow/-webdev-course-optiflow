@@ -69,3 +69,27 @@ No se requiere instalar nada. Para trabajar con el código:
 2. Copia el contenido del archivo correspondiente en `starter-files/`
 3. Pega el HTML en el panel izquierdo y el CSS en el panel del medio
 4. El resultado aparece automáticamente en el panel derecho
+
+## Configuración del editor para la Lección 6
+
+Para las primeras 5 lecciones no necesitas crear una cuenta 
+en CodePen. Sin embargo, para la Lección 6 (proyecto final) 
+se recomienda iniciar sesión para poder **guardar y compartir** 
+tu página web personal.
+
+### ¿Por qué crear una cuenta para la Lección 6?
+
+Sin cuenta, tu trabajo se pierde al cerrar el navegador.
+Con cuenta, puedes guardar tu proyecto, editarlo después 
+y compartir el enlace con quien quieras.
+
+### Pasos para crear tu cuenta gratuita
+
+1. Abre [CodePen](https://codepen.io) en tu navegador
+3. Haz clic en **Sign Up** en la esquina superior derecha
+4. Selecciona **Sign Up with Google** e ingresa 
+   con tu cuenta de Google
+5. ¡Listo! Ya puedes guardar y compartir tus proyectos
+
+> ℹ️ La cuenta gratuita es suficiente para todo 
+> lo que harás en este curso. No necesitas ningún plan de pago.
